@@ -1,0 +1,24 @@
+.letraVerde{
+    color: rgb(46, 164, 46);
+}
+.letraAmarilla{
+    color: rgb(237, 181, 39);
+}
+.bordeDiv{
+    border: 1px solid;
+    padding: 10px;
+    border-color:rgb(189, 189, 189);
+    margin: 10px;
+    padding-left: 20px; 
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: rgb(68, 203, 68);
+    border-bottom: 1px solid;
+    border-color: rgb(189, 189, 189);
+}
+h3{
+    color: rgb(249, 197, 66);
+}

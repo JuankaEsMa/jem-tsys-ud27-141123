@@ -1,0 +1,67 @@
+h1{
+    text-align: center;
+}
+h2{
+    color: rgb(68, 203, 68);
+    border-bottom: 1px solid;
+    border-color: rgb(189, 189, 189);
+}
+h3{
+    color: rgb(249, 197, 66);
+}
+
+ul{
+    list-style: none;
+}
+
+.letraVerde{
+    color: rgb(46, 164, 46);
+}
+.letraAmarilla{
+    color: rgb(237, 181, 39);
+}
+.bordeDiv{
+    border: 1px solid;
+    padding: 10px;
+    border-color:rgb(189, 189, 189);
+    margin: 10px;
+    padding-left: 20px; 
+}
+.flexContainer{
+    display: flex;
+    width: 900px;
+    margin: auto auto;
+}
+.leftSide{
+    width: 150px;
+}
+.rightSide{
+    width: 750px;
+}
+
+.linkInicio{
+    padding: 10px;
+    margin: 5px;
+    background-color:#E5CDB2;
+}
+
+.linkInicio:hover{
+    background-color: #e59f87;
+}
+
+.linkNormal{
+    padding: 10px;
+    margin: 5px;
+    background-color:#CBE783;
+}
+
+.linkNormal:hover{
+    background-color:#b4df46 ;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(48, 48, 48);
+    text-align: center;
+    display: block;
+}

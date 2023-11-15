@@ -1,0 +1,27 @@
+body{
+    color: #565758;
+}
+h1{
+    font-size: larger;
+    background-color: #FFDB8F;
+    padding: 5px;
+}
+h2{
+    color: #6C9CBE;
+}
+h2,.titulo_parrafo{
+    font-style: italic;
+}
+.titulo_parrafo{
+    color: #A3BAC6;
+}
+
+.titulo{
+    color: #5f89b6;
+    font-weight: bold;
+}
+.contenido{
+    margin-left: 30px;
+}
+
+
