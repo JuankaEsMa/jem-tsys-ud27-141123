@@ -1,0 +1,96 @@
+body{
+    background-color: #DEDEDE;
+}
+.mainContainer{
+    border: 0.1px solid #DEDEDE;
+    border-radius: 10px;
+    width: 900px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: white;
+}
+h1{
+    text-align: center;
+    min-width: 900px;
+    letter-spacing: 6px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+h2{
+    color: #76A31D;
+    border-bottom: 1px solid;
+    border-color: rgb(189, 189, 189);
+}
+h3{
+    color: rgb(249, 197, 66);
+}
+
+ul{
+    list-style: none;
+    padding-left: 0px;
+}
+
+footer{
+    text-align: center;
+    color: #c2c1c1;
+}
+
+.letraVerde{
+    color: #609017;
+}
+.letraAmarilla{
+    color: #AC864F;
+}
+.bordeDiv{
+    border: 1px solid;
+    padding: 10px;
+    border-color:rgb(189, 189, 189);
+    margin: 1em;
+    padding-left: 20px; 
+    background: linear-gradient(to top, #E8E8E8 0%, white 10% 90%,#E8E8E8 100%);
+}
+.flexContainer{
+    display: flex;
+    width: 900px;
+    margin: auto auto;
+}
+.leftSide{
+    width: 15%;
+}
+.rightSide{
+    width: 85%;
+}
+
+.linkInicio{
+    background: linear-gradient(to bottom,#ffffff 0% 20%, #DDC6A1);
+    font-weight: bold;
+}
+
+.linkInicio:hover{
+    background: none;
+    background-color: #e59f87;
+}
+
+.linkNormal, .linkInicio{
+    padding: 8px 10px;
+    margin: 5px;
+    border: 1px solid rgb(189, 189, 189);
+}
+.linkNormal{
+    background: linear-gradient(to bottom,#ffffff 0% 20%, #B6DD4F);
+}
+.linkNormal:hover{
+    background: none;
+    background-color:#b4df46 ;
+}
+
+a{
+    text-decoration: none;
+    color: #3f3f3f;
+    text-align: center;
+    display: block;
+}
+.divImg{
+    display: block;
+    text-align: center;
+}
