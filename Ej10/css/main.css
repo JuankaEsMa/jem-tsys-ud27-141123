@@ -1,5 +1,6 @@
 body{
     background-color: #DEDEDE;
+    scroll-behavior: smooth;
 }
 .mainContainer{
     border: 0.1px solid #DEDEDE;
