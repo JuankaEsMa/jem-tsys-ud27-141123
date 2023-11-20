@@ -1,1 +1,10 @@
-# jem-tsys-ud27-141123
+https://juankaesma.github.io/jem-tsys-ud28-141123/Ej1  
+https://juankaesma.github.io/jem-tsys-ud28-141123/Ej2  
+https://juankaesma.github.io/jem-tsys-ud28-141123/Ej3  
+https://juankaesma.github.io/jem-tsys-ud28-141123/Ej4  
+https://juankaesma.github.io/jem-tsys-ud28-141123/Ej5  
+https://juankaesma.github.io/jem-tsys-ud28-141123/Ej6  
+https://juankaesma.github.io/jem-tsys-ud28-141123/Ej7  
+https://juankaesma.github.io/jem-tsys-ud28-141123/Ej8  
+https://juankaesma.github.io/jem-tsys-ud28-141123/Ej9  
+https://juankaesma.github.io/jem-tsys-ud28-141123/Ej10  
